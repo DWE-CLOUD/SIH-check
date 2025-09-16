@@ -143,14 +143,10 @@ The application uses synthetic data for demonstration purposes:
 - Generated conflicts with varying severity levels
 - Realistic KPI metrics with trends
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👥 Contributors
 
-- Your Name - Initial work and design
+- Aditya Bhushan
 
 ---
 
-Developed for Smart India Hackathon (SIH) 2023
+Developed for Smart India Hackathon (SIH) 2025
